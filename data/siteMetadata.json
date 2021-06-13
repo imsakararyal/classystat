@@ -1,0 +1,18 @@
+{
+  "title": "Classy Stat",
+  "author": "Admin",
+  "headerTitle": "Classy Stat",
+  "description": "A website with stats,facts and visualization",
+  "language": "en-us",
+  "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
+  "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+  "image": "/static/images/avatar.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "classy.stat@gmail.com",
+  "github": "https://github.com",
+  "twitter": "https://twitter.com/Twitter",
+  "facebook": "https://facebook.com",
+  "youtube": "https://youtube.com",
+  "instagram": "https://www.instagram.com",
+  "locale": "en-US"
+}
